@@ -1,0 +1,50 @@
+[
+  {
+    "model": "Stefan",
+    "brand": "Surbua",
+    "engineType": "diesel",
+    "cost": 23000
+  },
+  {
+    "model": "Inag",
+    "brand": "WMS",
+    "engineType": "patrol",
+    "cost": 2000
+  },
+  {
+    "model": "SSF-4312",
+    "brand": "WeinMarkst",
+    "engineType": "diesel",
+    "cost": 10000
+  },
+  {
+    "model": "DSAO-4312",
+    "brand": "NBM",
+    "engineType": "gas",
+    "cost": 5000
+  },
+  {
+    "model": "Victory",
+    "brand": "BreinMachine",
+    "engineType": "patrol",
+    "cost": 100000
+  },
+  {
+    "model": "Ohio",
+    "brand": "MERC",
+    "engineType": "diesel",
+    "cost": 1200
+  },
+  {
+    "model": "LIS-32",
+    "brand": "Modi",
+    "engineType": "gas",
+    "cost": 1000
+  },
+  {
+    "model": "MSA-34",
+    "brand": "Surbua",
+    "engineType": "patrol",
+    "cost": 2500
+  }
+]
